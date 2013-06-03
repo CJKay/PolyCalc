@@ -1,5 +1,5 @@
-if(!jQuery || !Modernizr || !CSSParser) {
-	alert("PolyCalc requires jQuery, Modernizr and JSCSSP to function. Disabling.");
+if(!jQuery || !CSSParser) {
+	alert("PolyCalc requires jQuery and JSCSSP to function. Disabling.");
 } else {
 	if(typeof String.prototype.startsWith != 'function') {
 		String.prototype.startsWith = function(str){
