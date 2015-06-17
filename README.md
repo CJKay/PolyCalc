@@ -1,10 +1,6 @@
 PolyCalc
 ========
 
-WARNING: This library is no longer maintained by me. As such, I no longer provide support for it and you should therefore consider it to be in its final state. I hereby provide explicit permission to redistribute or modify this project as per the license below. 
-
-----------------
-
 Copyright (c) 2013 Chris Kay.
 All rights reserved.
 
